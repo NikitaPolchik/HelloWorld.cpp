@@ -14,3 +14,13 @@ char getChar(int i) // returns integer as ASCII  character
 {
   return i;
 }
+
+// you can "#define" pretty much everything including emojis, and it will work even if IDE shows errors
+#define 😂 a % 2
+#define 🍆 a * 9
+#define 💦 a * 8
+
+int simpleMultiplication(int a) {
+    return 😂 ? 🍆 : 💦;
+}
+
