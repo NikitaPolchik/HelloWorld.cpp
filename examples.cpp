@@ -1,4 +1,12 @@
+#include <iostream>
 #include <vector>
+#include <algorithm>
+
+using std::cout;
+using std::cin;
+using std::endl;
+using std::vector;
+using std::greater;
 
 std::vector<int> countPositivesSumNegatives(std::vector<int> input)
 {
@@ -20,7 +28,7 @@ char getChar(int i) // returns integer as ASCII  character
 #define 🍆 a * 9
 #define 💦 a * 8
 
-int simpleMultiplication(int a) {
+int simpleMultiplication(int a)
+{
     return 😂 ? 🍆 : 💦;
 }
-

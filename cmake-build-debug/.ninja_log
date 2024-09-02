@@ -1,0 +1,6 @@
+# ninja log v6
+13	988	7469564176572749	CMakeFiles/HelloWorld_cpp.dir/examples.cpp.obj	7bce2492fc5ac136
+16	702	7469577142670072	CMakeFiles/HelloWorld_cpp.dir/sumOfDifferences.cpp.obj	e4e259a5aa2eea34
+17	1076	7469564176622629	CMakeFiles/HelloWorld_cpp.dir/helloworld.cpp.obj	b762a5c714fd9187
+702	786	7469577149526359	HelloWorld_cpp.exe	4a752c15db341d8
+12	624	7469577142629426	CMakeFiles/HelloWorld_cpp.dir/main.cpp.obj	8f34536958556a3b
